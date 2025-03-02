@@ -2,6 +2,8 @@
 
 `app.py` 文件包含了一个名为 SchulteGrid 的应用程序，这是一个基于 Toga 框架开发的 Python 应用。舒尔特方格（Schulte Grid）是一种用于提高注意力和视觉搜索能力的训练工具。
 
+<img src="resources/screenshot.jpg" alt="SchulteGrid 应用截图" width="250"/>
+
 ## 主要功能
 
 ### 多语言支持：
